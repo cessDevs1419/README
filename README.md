@@ -1,7 +1,7 @@
 # Hello, folks! cess Here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vue,angular,figma,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vue,angular,figma,vscode,github,postman,laravel,mysql" />
   </a>
 </p>
 :point_down: You can leave me a message here
@@ -9,6 +9,12 @@
 ###<p align="left" >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More info about me
